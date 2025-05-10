@@ -1,2 +1,6 @@
 Bonjour tout le monde
+<<<<<<< HEAD
 Salut!!
+=======
+Good 
+>>>>>>> update-index
